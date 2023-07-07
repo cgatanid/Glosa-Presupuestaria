@@ -1,10 +1,9 @@
 # Cumplimiento al Articulado y Glosas Presupuestarias estipulado en Ley de Presupuesto 2023
----
 
 
 Glosa 5: El Ministerio de Ciencias, Tecnología, Conocimiento e Innovación deberá remitir informes trimestrales a la Comisión de Medio Ambiente y Bienes Nacionales del Senado y la Comisión Especial sobre Recursos Hídricos, Desertificación y Sequía del Senado, información sobre el gasto presupuestario en investigación relacionada con adaptación al cambio climático y escasez hídrica, además de hidrógeno verde. Específicamente, deberá informar los avances que dichas investigaciones representan en términos de potencial impacto en estas áreas estratégicas del país, así como los avances en generación de capital humano que implica el uso de dichos fondos. Asimismo, el informe deberá consignar los resultados parciales de las investigaciones o becas que se financien en estas materias y esclarecer cómo o de qué manera se justifican dichas investigaciones en cada una de las áreas temáticas, para efectos de poder hacer una adecuada evaluación de las posibilidades estratégicas de Chile en relación con el desarrollo sostenible.	 	
 
----
+
 
 ## keywords en inglés y español relacionadas con los conceptos de Recursos Hídricos, Desertificación, Sequía, Cambio climático, Escasez hídrica e Hidrógeno verde:
 
